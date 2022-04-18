@@ -1,24 +1,32 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
   - Research in cybersecurity
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
+  - STIX and working with the ATT&CK framework
 
-STIX and working with the ATT&CK framework
+- 👯 I’m looking to collaborate on
+  - Cybersecurity modelling, in general
 
-- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with
+  - Accommodating good research questions into well-sound scientific papers. 
 
-Cybersecurity modelling, in general
+- 💬 Ask me about
+  - Markov Chains
+  - Dependability plus cyber-security
+  - Stochastic modelling & simulation
 
-- 🤔 I’m looking for help with ...
+- 📫 How to reach me:
+  - rczekster at gmail
 
-- 💬 Ask me about ...
+- ⚡ Fun fact:
+  - I support Internacional, the best football team in the world.
 
-- 📫 How to reach me: ...
+### Projects you should take a look
+- Look at my latest github repo: [github/czekster/markov](https://github.com/czekster/markov)
 
-- ⚡ Fun fact: ...
-
-
+### Latest changes
+- Last update: 18/April/2022
 
