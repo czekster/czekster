@@ -28,11 +28,11 @@
 - Look at my latest github repo: [github/czekster/markov](https://github.com/czekster/markov)
 
 ### Author
-<img align="right" width="200" src="https://github.com/czekster/markov/blob/main/images/rmc.png">
+<img align="right" width="300" src="https://github.com/czekster/markov/blob/main/images/rmc.png">
 Ricardo M. Czekster
-rczekster at gmail
 
 Ricardo is an active researcher in dependability and cyber-security.
+
 Please, check out his virtual presence on the following platforms:
 - [ORCID](https://orcid.org/0000-0002-6636-4398)
 - [ResearchGate](https://www.researchgate.net/profile/Ricardo-Czekster)
